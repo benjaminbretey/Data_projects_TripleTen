@@ -1,1 +1,16 @@
+# Zomato Restaurant Aggregator
 
+## Overview
+
+This project analyzes customer demographics and sales relationships using a dataset from Zomato.
+
+## Dashboard
+
+View the Tableau dashboard here:  
+👉 [Zomato Sales Analysis on Tableau Public]([https://public.tableau.com/views/YourDashboardLink](https://public.tableau.com/views/ZomatoCustomerDemographicsSalesDistributionFinalProject/ZomatoCustomerDemographicsSalesDistribution?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+
+## Files
+
+- Cleaned data (spreadsheet or CSV)
+- Project report (PDF or MD)
+- Visualizations
