@@ -1,7 +1,17 @@
-Prompt:
-Retrieve from the trips table all the rides that started in the Loop (pickup_location_id: 50) on a Saturday and ended at O'Hare (dropoff_location_id: 63). 
-  Get the weather conditions for each ride. Use the method you applied in the previous task. 
-  Also, retrieve the duration of each ride. Ignore rides for which data on weather conditions is not available.
+
+Query:
+SELECT 
+    CASE 
+        WHEN c.company_name = 'Flash Cab' THEN 'Flash Cab'
+        WHEN c.company_name = 'Taxi Affiliation Services' THEN 'Taxi Affiliation Services'
+        ELSE 'Other'
+    END AS company,
+    COUNT(t.trip_id) AS trips_amount
+FROM trips t
+JOIN cabs c ON t.cab_id = c.cab_id
+WHERE t.start_ts BETWEEN '2017-11-01 00:00:00' AND '2017-11-07 23:59:59'
+GROUP BY company
+ORDER BY trips_amount DESC;
 
 Query:
   SELECT 
