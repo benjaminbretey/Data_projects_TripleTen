@@ -1,19 +1,23 @@
 # Zuber Rideshare SQL Analysis
 
-This project uses SQL to explore and analyze rideshare data for Zuber. The goal was to uncover patterns and insights related to customer behavior regarding weather on rides to and from airports.
+For this SQL exclusive project I was given the brief:
+You're working as an analyst for Zuber, a new ride-sharing company that's launching in Chicago. Your task is to find patterns in the available information. You want to understand passenger preferences and the impact of external factors on rides.
 
 ## Objectives
 
-- Identify the number of rides by city
-- Compare ride volume between customer types
-- Calculate average trip duration
-- Discover peak usage times and areas
+- Identify top taxi services
+- 
+- Discern the impact of weather on ride frequency and duration.
+- 
 
 ## Tools Used
 
-- SQL (written and run via [insert platform used])
+- SQL (written and run via [TripleTen])
 - Dataset provided by [insert source or leave blank if proprietary]
 
-## Key Insights
+ALthought there was no analysis report required, I had some takeaway conclusions from the query results summarized below.
 
+## Key Insights
+Flash Cab carried the highest volume
+Weather 
 - [Insert a few bullet-point highlights from your results]
