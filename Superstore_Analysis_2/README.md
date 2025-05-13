@@ -6,8 +6,9 @@ I designed and built the dashboard for use by a team to visually filter categori
 I used total sales and unique orders as metrics to measure against returns, as I was interested in comparative return volume within categories, and not merely percent rates of return.
 As it turns out, profit and loss were not always directly correlated with returns, so problem areas differentiated between projects. For example, tables were highly unprofitable, even with a lower return rate in comparison to machines, which were net profitable despite a high rate of return.
 
-I provided some specific conclusions:
+Here are some of the specific conclusions I provided:
 
 ## Insights
 - I advised targeted and/or demographic research into chairs, as the relativly high return rate would be incurring high logistics costs in comparison to other products with a high return rate.
-- 
+- The high rate of return on binders doubly needs to be investigated further when considering the category also has a wide range between loss and profit across the company.
+- While paper also has a high rate of return, resources would be better allocated towards ensuring the end user experience with phones. Both have a high volume of returns, but phone sales have a much greater impact on cash flow.
