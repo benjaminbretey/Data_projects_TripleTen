@@ -17,7 +17,6 @@ You're working as an analyst for Zuber, a new ride-sharing company that's launch
 
 ALthought there was no analysis report required, I had some takeaway conclusions from the query results summarized below.
 
-## Key Insights
-Flash Cab carried the highest volume
-Weather 
-- [Insert a few bullet-point highlights from your results]
+## Insights
+- Flash Cab carried the highest volume
+- Weather
