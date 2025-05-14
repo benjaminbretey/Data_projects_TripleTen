@@ -7,10 +7,6 @@ This project analyzes customer demographics and sales relationships using a data
 ## Dashboard
 
 View the Tableau dashboard here:  
-👉 [Zomato Customer Demographics Sales Analysis on Tableau Public](https://public.tableau.com/views/ZomatoCustomerDemographicsSalesDistributionFinalProject/ZomatoCustomerDemographicsSalesDistribution?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+👉 [Zomato Customer Demographics Sales Dashboard on Tableau Public](https://public.tableau.com/views/ZomatoCustomerDemographicsSalesDistributionFinalProject/ZomatoCustomerDemographicsSalesDistribution?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## Files
-
-- Cleaned data (spreadsheet or CSV)
-- Project report (PDF or MD)
-- Visualizations
+- Project report [Zomato Analysis Conclusions and Recommendations](Zomato_Restaurant_Aggregator/Benjamin Bretey _ Zomato Analysis Conclusions And Recommendations.pdf)
