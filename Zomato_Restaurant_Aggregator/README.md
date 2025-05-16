@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes customer demographics and sales relationships using a dataset from Zomato.
+This project analyzes customer demographics and sales relationships using a dataset from Zomato. I chose to focus on differences between genders, marital status, and family size, with characteristics of employement status, age, and level of education. It was intended to be a more specific report with a quick turnaround.
 
 ## Files
 
